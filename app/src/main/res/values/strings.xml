@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecPass</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="log_in">Log In</string>
+    <string name="terms_and_conditions_privacy_policy">Terms and Conditions | Privacy Policy</string>
+    <string name="enter_your_master_password_or_use_your_fingerprint">Enter Your Master Password or Use Your Fingerprint</string>
+    <string name="unlock_secpass">Unlock SecPass</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="login_to_continue">LogIn to continue</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="master_password">Master Password</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
